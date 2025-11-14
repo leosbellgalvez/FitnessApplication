@@ -99,3 +99,12 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 - Information Log Screen [POST] /log
 - Log History Screen [Get] /logs
 - Using Existing API: Meal Plan Generated Screen: [GET] https://api.spoonacular.com/mealplanner/generate
+
+
+
+
+## DEMO FOR EACH USER STORY
+
+- [x] User can login/signout with backend handled by parseswift and back4app
+      Demo:
+
