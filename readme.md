@@ -1,9 +1,4 @@
----
-title: readme
-
----
-
-readme File
+APPLICATION SPECS
 ===
 
 # Fitness Application
@@ -36,7 +31,7 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-
+* User can login/signout with backend handled by parseswift and back4app
 * User can input set/rep exercise information and it will log. 
 * User can review log history to view previous work outs and monitor their health journey.
 * User can delete logs if needed based on their specification
