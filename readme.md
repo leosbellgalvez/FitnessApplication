@@ -106,5 +106,8 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 ## DEMO FOR EACH USER STORY
 
 - [x] User can login/signout with backend handled by parseswift and back4app
-      Demo:
+      <a href="https://www.loom.com/share/725b9588531b43a887816d8998c9aab2">
+       <img src="customimagesandgifs/LOGINDEMOGIF.gif" alt="Group Project Login Demo" width="300">
+      </a>
+
 
