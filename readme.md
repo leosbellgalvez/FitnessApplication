@@ -134,9 +134,10 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
    <img src="customimagesandgifs/EXERCISELOGGERDEMO.gif" alt="Group Project Exercise Logger Demo" width="300">
 </a>
 
-
-
 ## USER STORY 6: User can input calories, and other information to use Spoonacular API and return a list of meal-plans for their health journey.
+<a href="https://www.loom.com/share/b74b61b09fc3486188839ea77d74f418">
+   <img src="customimagesandgifs/MEALPLANNERGIFDEMO.gif" alt="Group Project Meal Planner Generator Demo" width="300">
+</a>
 
 
 
