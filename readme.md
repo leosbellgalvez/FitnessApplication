@@ -109,3 +109,9 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 </a>
 
 
+## USER STORY 2: User can input set/rep/weight exercise information and it will log.
+<a href="https://www.loom.com/share/74131c9e5527479d988f2f64659b7af3">
+   <img src="customimagesandgifs/EXERCISELOGGERDEMO.gif" alt="Group Project Exercise Logger Demo" width="300">
+</a>
+
+
