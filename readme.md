@@ -74,7 +74,7 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 
 ## Wireframes
 
-![72F3AF13-7613-4C81-9E1C-883E32754656 2](https://hackmd.io/_uploads/BJFMJCVg-g.jpg)
+![wireframeimage](customimagesandgifs/WIREFRAME.jpg)
 
 
 
