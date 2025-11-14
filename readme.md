@@ -135,3 +135,8 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 </a>
 
 
+
+## USER STORY 6: User can input calories, and other information to use Spoonacular API and return a list of meal-plans for their health journey.
+
+
+
