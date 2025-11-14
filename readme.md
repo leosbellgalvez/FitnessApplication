@@ -85,11 +85,31 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 
 ### Models
 
-[Model Name, e.g., User]
+[User]
 | Property | Type   | Description                                  |
 |----------|--------|----------------------------------------------|
 | username | String | unique id for the user post (default field)   |
 | password | String | user's password for login authentication      |
+| objectId | String | unique id |
+| createdAt | Date | date of account creation |
+| updatedAt | Date | in case of update to account |
+| emailVerified | boolean | for email verification (optional) |
+
+
+
+[ExerciseLog]
+| Property | Type   | Description                                  |
+|----------|--------|----------------------------------------------|
+| objectId | String | unique id for the user post (default field)   |
+| createdAt | Date | date of log creation      |
+| updatedAt | Date | date of log update |
+| workoutName | String | name of user workout |
+| sets | Int | number of sets in the workout |
+| reps | Int | number of reps in each set |
+| weight | Double | lbs used in workout (optional) |
+| date | Date | custom date identifier |
+| userId | String | to attach correct logs to correct user |
+
 
 
 
