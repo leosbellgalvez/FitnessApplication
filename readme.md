@@ -31,15 +31,15 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 ### 1. User Stories (Required and Optional)
 
 **Required Must-have Stories**
-- [x] User can login/signout with backend handled by parseswift and back4app
-- [x] User can input set/rep/weight exercise information and it will log.
-- [x] User can review log history to view previous work outs and monitor their health journey.
-- [ ] User can delete logs if needed based on their specification
-- [ ] User can edit logs if a mistake is made upon initial upload.
+- [x] User Story 1: User can login/signout with backend handled by parseswift and back4app
+- [x] User Story 2: User can input set/rep/weight exercise information and it will log.
+- [x] User Story 3: User can review log history to view previous work outs and monitor their health journey.
+- [ ] User Story 4: User can delete logs if needed based on their specification
+- [ ] User Story 5: User can edit logs if a mistake is made upon initial upload.
 
 **Optional Nice-to-have Stories**
 
-- [x] User can input calories, and other information to use Spoonacular API and return a list of meal-plans for their health journey.
+- [x] User Story 6 (optional): User can input calories, and other information to use Spoonacular API and return a list of meal-plans for their health journey.
 
 ### 2. Screen Archetypes
 
@@ -109,7 +109,7 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 </a>
 
 
-## USER STORY 2: User can input set/rep/weight exercise information and it will log.
+## USER STORY 2 & 3: User can input set/rep/weight exercise information and it will log AND User can review log history to view previous work outs and monitor their health journey.
 <a href="https://www.loom.com/share/74131c9e5527479d988f2f64659b7af3">
    <img src="customimagesandgifs/EXERCISELOGGERDEMO.gif" alt="Group Project Exercise Logger Demo" width="300">
 </a>
