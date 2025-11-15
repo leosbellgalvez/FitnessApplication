@@ -1,8 +1,3 @@
----
-title: Untitled
-
----
-
 Mobile App Dev - App Brainstorming
 ===
 
