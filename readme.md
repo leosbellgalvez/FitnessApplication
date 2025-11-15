@@ -34,8 +34,8 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 - [x] User Story 1: User can login/signout with backend handled by parseswift and back4app
 - [x] User Story 2: User can input set/rep/weight exercise information and it will log.
 - [x] User Story 3: User can review log history to view previous work outs and monitor their health journey.
-- [ ] User Story 4: User can delete logs if needed based on their specification
-- [ ] User Story 5: User can edit logs if a mistake is made upon initial upload.
+- [x] User Story 4: User can delete logs if needed based on their specification
+- [x] User Story 5: User can edit logs if a mistake is made upon initial upload.
 
 **Optional Nice-to-have Stories**
 
@@ -43,13 +43,13 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 
 ### 2. Screen Archetypes
 
-- [ ] **Information Log Screen**
+- [x] **Information Log Screen**
     * Required User Feature: User can input set/rep information
-- [ ] **Log History Screen **
+- [x] **Log History Screen **
     * Required User Feature: User can delete/edit/view previously uploaded logs.
-- [ ] **Meal Plan Input Info Screen**
+- [x] **Meal Plan Input Info Screen**
     * Optional User feature: User can input calories and other information
-- [ ] **Meal Plan Generated Screen**
+- [x] **Meal Plan Generated Screen**
     * Optional User Feature: After Meal Plan Input info, this screen generates the meal plan based on the specifications.
 
 
@@ -58,17 +58,17 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 **Tab Navigation** (Tab to Screen)
 
 
-- [ ] 🏋️ Exercise Logger
-- [ ] 📖 Log History
-- [ ] 🥗 Meal Plan Generator
+- [x] 🏋️ Exercise Logger
+- [x] 📖 Log History
+- [x] 🥗 Meal Plan Generator
 
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] **Home Screen**
+- [x] **Home Screen**
   * Leads to Information Log Screen
   * Leads to Meal Plan Generator
-- [ ] **Information Log Screen**
+- [x] **Information Log Screen**
   * Leads to Log History Screen
 
 
@@ -133,6 +133,13 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 <a href="https://www.loom.com/share/74131c9e5527479d988f2f64659b7af3">
    <img src="customimagesandgifs/EXERCISELOGGERDEMO.gif" alt="Group Project Exercise Logger Demo" width="300">
 </a>
+
+## USER STORY 4 & 5: User can delete logs if needed based on their specification AND User can edit logs if a mistake is made upon initial upload.
+<a href="https://www.loom.com/share/c6fc5803a1574f529f1a08fbc5297c2c">
+   <img src="customimagesandgifs/EDITDELETEDEMO.gif" alt="Group Project Edit/Delete Demo" width="300">
+</a>
+
+
 
 ## USER STORY 6: User can input calories, and other information to use Spoonacular API and return a list of meal-plans for their health journey.
 <a href="https://www.loom.com/share/b74b61b09fc3486188839ea77d74f418">
