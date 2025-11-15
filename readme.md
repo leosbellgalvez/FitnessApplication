@@ -142,7 +142,11 @@ An application that keeps track of fitness goals and actual in-gym exercises. It
 
 ## Unit 9 Demo Practice Run Video (Click for video on youtube, otherwise GIF is displayed here)
 
-https://youtube.com/shorts/grLR_znYDnM
+<a href="https://youtube.com/shorts/grLR_znYDnM">
+   <img src="customimagesandgifs/PRACTICERUNFULLDEMOGIF.gif" alt="Unit 9 Demo Practice run" width="300">
+</a>
+
+
 
 
 
